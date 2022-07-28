@@ -50,7 +50,7 @@ If you discover any security related issues, please email devs@storewid.com inst
 
 ## Credits
 
--   [Emmanuel Mnzava](https://github.com/storewid)
+-   [Storewid](https://github.com/storewid)
 -   [All Contributors](../../contributors)
 
 ## License
