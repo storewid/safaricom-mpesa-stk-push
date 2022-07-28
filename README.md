@@ -46,7 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email epmnzava@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email devs@storewid.com instead of using the issue tracker.
 
 ## Credits
 
@@ -56,7 +56,3 @@ If you discover any security related issues, please email epmnzava@gmail.com ins
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## PHP Package Boilerplate
-
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com) by [Beyond Code](http://beyondco.de/).
