@@ -1,0 +1,42 @@
+{
+    "name": "storewid/safaricom-mpesa-stk-push",
+    "description": "PHP Library  for safaricom mpesa - Tanzania",
+    "keywords": [
+        "storewid",
+        "safaricom-mpesa-stk-push"
+    ],
+    "homepage": "https://github.com/storewid/safaricom-mpesa-stk-push",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Emmanuel Mnzava",
+            "email": "epmnzava@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Storewid\\SafaricomMpesa\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Storewid\\SafaricomMpesa\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
